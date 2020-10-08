@@ -1,0 +1,7 @@
+{
+  "driverPaths": {
+    "firefox": "C:\\Test automation\\selenium\\drivers\\geckodriver.exe",
+    "chrome": "C:\\Test automation\\selenium\\drivers\\chromedriver.exe",
+    "edge": "C:\\Test automation\\selenium\\drivers\\msedgedriver.exe"
+  }
+}
